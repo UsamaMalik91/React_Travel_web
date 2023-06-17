@@ -25,7 +25,7 @@ const Footer=()=>{
                     <a href='/'>All Versions</a>
                 </div>
                 <div>
-                    <h4>Community</h4>
+                    <h4>Presence</h4>
                     <a href='/'>Github</a>
                     <a href='/'>StackOverFlow</a>
                     <a href='/'>Chegg</a>
