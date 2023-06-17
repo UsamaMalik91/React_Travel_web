@@ -1,0 +1,15 @@
+.content{
+    margin:4rem 6rem ;
+    text-align: start;
+}
+.content h1{
+    padding-bottom:1.3rem;
+}
+.content p{
+    padding-bottom: 2.6rem;
+}
+@media screen and (max-width:850px){
+    .content{
+        margin:4rem 2rem;
+    }
+}
